@@ -266,7 +266,7 @@ figure {
         display: block;
         margin-bottom: 10px; }
         #colorlib-hero .flexslider .flex-control-nav li a {
-          background: rgba(0, 0, 0, 0.5);
+          background: rgb(255, 255, 255);
           -webkit-box-shadow: none;
           box-shadow: none;
           width: 12px;
@@ -1543,44 +1543,82 @@ body {
 }
 
 .box-01 .inner {
-	background-image: url('https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg');
+	background-image: url('https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain-wordmark.svg');
 	background-position: 50% 50%;
 	background-repeat: no-repeat;
-	background-size: cover;
+	background-size: contain;
 }
 .box-02 .inner {
-	background-image: url('https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg');
+	background-image: url('https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain-wordmark.svg');
 	background-position: 50% 50%;
 	background-repeat: no-repeat;
-	background-size: cover;
+	background-size: contain;
 }
 .box-03 .inner {
-	background-image: url('https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg');
+	background-image: url('https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg');
 	background-position: 50% 50%;
 	background-repeat: no-repeat;
-	background-size: cover;
+	background-size: contain;
 }
 .box-04 .inner {
-	background-image: url('https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg');
+	background-image: url('https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original-wordmark.svg');
 	background-position: 50% 50%;
 	background-repeat: no-repeat;
-	background-size: cover;
+	background-size: contain;
 }
 .box-05 .inner {
-	background-image: url('https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg');
+	background-image: url('https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ruby/ruby-original-wordmark.svg');
 	background-position: 50% 50%;
 	background-repeat: no-repeat;
-	background-size: cover;
+	background-size: contain;
 }
 .box-06 .inner {
-	background-image: url('https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg');
+	background-image: url('https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/rails/rails-plain-wordmark.svg');
 	background-position: 50% 50%;
 	background-repeat: no-repeat;
-	background-size: cover;
+	background-size: contain;
 }
-.box-07 .inner {
+/* .box-07 .inner {
 	background-image: url('https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg');
 	background-position: 50% 50%;
 	background-repeat: no-repeat;
 	background-size: cover;
+} */
+.box-08 .inner {
+	background-image: url('https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg');
+	background-position: 50% 50%;
+	background-repeat: no-repeat;
+	background-size: cover;
+  background-size: contain;
+}
+.box-09 .inner {
+	background-image: url('https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/angularjs/angularjs-original.svg');
+	background-position: 50% 50%;
+	background-repeat: no-repeat;
+	background-size: contain;
+}
+.box-10 .inner {
+	background-image: url('https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ionic/ionic-original-wordmark.svg');
+	background-position: 50% 50%;
+	background-repeat: no-repeat;
+	background-size: contain;
+}
+.box-11 .inner {
+	background-image: url('https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg');
+	background-position: 50% 50%;
+	background-repeat: no-repeat;
+	background-size: contain;
+}
+.box-12 .inner {
+	background-image: url('https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original-wordmark.svg');
+	background-position: 50% 50%;
+	background-repeat: no-repeat;
+	background-size: contain;
+}
+
+.box-13 .inner {
+	background-image: url('https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/django/django-plain-wordmark.svg');
+	background-position: 50% 50%;
+	background-repeat: no-repeat;
+	background-size: contain;
 }
